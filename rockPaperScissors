@@ -1,0 +1,4 @@
+import random
+
+moves = ['Rock', 'Paper', 'Scissors']
+print(random.choice(moves))
